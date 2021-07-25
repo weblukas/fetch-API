@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.user-box {
+  background: rgb(226, 228, 220);
+  margin: 20px;
+  padding: 10px;
+}
+
+.btn {
+  border: none;
+  background-color: goldenrod;
+  box-shadow: 3px 3px 3px;
+  cursor: pointer;
+}
